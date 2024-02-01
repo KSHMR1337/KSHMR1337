@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/marko-%C5%BEarkovi%C4%87-119951122/" target="_blank">
     <img src="./pictures/linkedinlogo.svg" height="35" alt="linkedin logo"  />
   </a>
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   </a>
 
 
-</div>
+</p>
 
 <br/>
 
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-<div align="left" style="clear: both;">
+<p align="left" style="clear: both;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-</div>
+</p>
 
 ###
 
