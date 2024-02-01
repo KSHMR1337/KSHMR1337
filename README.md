@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 ###
 
-<h1 align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F729B1&center=true&random=false&width=435&lines=Hi+there;I'm+Marko" alt="Typing SVG" />
   </a>
-</h1>
+</p>
 
-<!-- ### -->
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/marko-%C5%BEarkovi%C4%87-119951122/" target="_blank">
