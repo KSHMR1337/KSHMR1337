@@ -37,17 +37,24 @@ Here are some ideas to get you started:
   <a href="https://tryhackme.com/p/MarkoZarkovic" target="_blank">
     <img src="./pictures/tryhackmelogo.svg" height="35" alt="tryhackme logo"  />
   </a>
-</div>
 
+
+</div>
+<br/><br/>
 <!-- ### -->
 
 <!-- <h2 align="left">🛡️ Cybersecurity enthusiast and Linux lover. I'm also an avid CTF player with special interest in Penetration Testing, Cryptography and Digital Forensics.</h2> -->
 
 <!-- ### -->
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=KSHMR1337&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<p align="center">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <img align="left" src="https://streak-stats.demolab.com?user=KSHMR1337&theme=synthwave&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSHMR1337&title_color=F729B1FF&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+  </a> 
+</p>
 
 <!-- ### -->
 
