@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 
 </div>
 
-<!-- <br/><br/> -->
+<br/><br/>
 
-<p align="center" style="clear: both; margin-top: 20px; margin-bottom: 20px;">
+<p align="center" style="clear: both;">
   <a href="https://git.io/streak-stats">
     <img align="left" height=200 src="https://streak-stats.demolab.com?user=KSHMR1337&theme=synthwave&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=420" alt="GitHub Streak" />
   </a>
@@ -52,6 +52,7 @@ Here are some ideas to get you started:
   </a> 
 </p>
 
+<br/><br/>
 <!-- <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/> -->
 
 ###
