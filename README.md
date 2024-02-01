@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 </div>
 
-<!-- <br/><br/> -->
+<br/>
 
 <p align="center" style="clear: both;">
   <a href="https://git.io/streak-stats">
@@ -52,9 +52,10 @@ Here are some ideas to get you started:
   </a> 
 </p>
 
-<!-- <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/> -->
 
 ###
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <div align="left" style="margin-top: 50px; margin-bottom: 50px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
