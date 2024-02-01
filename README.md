@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="center" style="clear: both; margin-top: 20px; margin-bottom: 20px;">
+<div align="center" style="margin-top: 50px; margin-bottom: 50px;">
   <a href="https://www.linkedin.com/in/marko-%C5%BEarkovi%C4%87-119951122/" target="_blank">
     <img src="./pictures/linkedinlogo.svg" height="35" alt="linkedin logo"  />
   </a>
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="left" style="clear: both; margin-top: 20px; margin-bottom: 20px;">
+<div align="left" style="margin-top: 50px; margin-bottom: 50px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
