@@ -55,7 +55,7 @@ Here are some ideas to get you started:
     <img align="right" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSHMR1337&title_color=F729B1FF&text_color=ffffff&icon_color=61dafb&bg_color=2b213a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
   </a> 
 </p>
-
+<br/>
 <!-- ### -->
 
 <!-- <img align="right" height="150" src="https://avatars.githubusercontent.com/u/58790612?v=4"  /> -->
