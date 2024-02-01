@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   </a>
 </h1>
 
-###
+<!-- ### -->
 
 <div align="center">
   <a href="https://www.linkedin.com/in/marko-%C5%BEarkovi%C4%87-119951122/" target="_blank">
@@ -45,13 +45,13 @@ Here are some ideas to get you started:
 
 <!-- ### -->
 
-<!-- <div align="center"> -->
-<!--   <img src="https://streak-stats.demolab.com?user=KSHMR1337&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> -->
-<!-- </div> -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=KSHMR1337&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-###
+<!-- ### -->
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/58790612?v=4"  />
+<!-- <img align="right" height="150" src="https://avatars.githubusercontent.com/u/58790612?v=4"  /> -->
 
 ###
 
