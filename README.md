@@ -40,13 +40,9 @@ Here are some ideas to get you started:
 
 
 </div>
+
 <br/><br/>
-<!-- ### -->
 
-<!-- <h2 align="left">🛡️ Cybersecurity enthusiast and Linux lover. I'm also an avid CTF player with special interest in Penetration Testing, Cryptography and Digital Forensics.</h2> -->
-
-<!-- ### -->
-<div>
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img align="left" height=200 src="https://streak-stats.demolab.com?user=KSHMR1337&theme=synthwave&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=390" alt="GitHub Streak" />
@@ -55,11 +51,8 @@ Here are some ideas to get you started:
     <img align="right" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSHMR1337&title_color=F729B1FF&text_color=ffffff&icon_color=61dafb&bg_color=2b213a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
   </a> 
 </p>
-<br/>
-</div>
-<!-- ### -->
 
-<!-- <img align="right" height="150" src="https://avatars.githubusercontent.com/u/58790612?v=4"  /> -->
+<br/><br/><br/><br/><br/>
 
 ###
 
