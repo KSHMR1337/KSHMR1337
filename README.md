@@ -83,7 +83,11 @@ Here are some ideas to get you started:
 
 ###
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fxwmoknmymjzzmcyr6bslxmsuu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=f729b1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<p align="right">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fxwmoknmymjzzmcyr6bslxmsuu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=f729b1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+<p/>
 
 ###
 
