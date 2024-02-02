@@ -1,28 +1,8 @@
-<!-- ### Hi there 👋 -->
-
-<!--
-**KSHMR1337/KSHMR1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-###
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F729B1&center=true&random=false&width=435&lines=Hi+there;I'm+Marko" alt="Typing SVG" />
   </a>
 </p>
-
-###
 
 <p align="center">
   <a align="center" href="https://www.linkedin.com/in/marko-%C5%BEarkovi%C4%87-119951122/" target="_blank">
@@ -47,10 +27,6 @@ Here are some ideas to get you started:
 - Linux enthusiast and use Arch and Blackarch as my OSes :alien:
 - Currently doing my Masters in Cybersecurity on static malware analysis :space_invader:
 - Love playing CTFs in my free time :mount_fuji: 
-
-
-
-###
 
 <p>
   <a href="https://git.io/streak-stats">
@@ -89,7 +65,5 @@ Here are some ideas to get you started:
   <img src="./assets/icons/languages/java.svg" height="40" alt="java icon"/>
   <img src="./assets/icons/languages/lua.svg" height="40" alt="lua icon"/>
 </p>
-
-###
 
 
