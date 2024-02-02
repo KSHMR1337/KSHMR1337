@@ -38,12 +38,12 @@
 </p>
 
 
-## Technologies in my environment:
 
 <div style="display: flex; justify-content: space-between;">
   <!-- Technologies -->
   <div>
     <p align="left">
+      ## Technologies in my environment:
       <img src="./assets/icons/technologies/archlinux.svg" height="40" alt="arch logo"/>
       <img src="./assets/icons/technologies/blackarch.png" height="60" alt="blackarch logo"/>
       <img src="./assets/icons/technologies/raspberrypi.svg" height="40" alt="raspberrypi logo"/>
@@ -52,12 +52,12 @@
   </div>
 </div>
 
-## Tools I use:
 
 <div style="display: flex; justify-content: space-between;">
   <!-- Tools -->
   <div>
-    <p align="left">
+    <p align="right">
+      ## Tools I use:
       <img src="./assets/icons/tools/dwm.svg" height="40" alt="dwm logo"/>
       <img src="./assets/icons/tools/neovim.svg" height="40" alt="neovim logo"/>
       <img src="./assets/icons/tools/tmux.svg" height="40" alt="tmux logo"/>
