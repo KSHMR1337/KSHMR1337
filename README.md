@@ -37,21 +37,33 @@
   </a> 
 </p>
 
-### Technologies in my environment:
-<p align="left" style="clear: both;">
-  <img src="./assets/icons/technologies/archlinux.svg" height="40" alt="arch logo"/>
-  <img src="./assets/icons/technologies/blackarch.png" height="60" alt="blackarch logo"/>
-  <img src="./assets/icons/technologies/raspberrypi.svg" height="40" alt="raspberrypi logo"/>
-  <img src="./assets/icons/technologies/docker.svg" height="40" alt="docker logo"/>
-</p>
 
+## Technologies in my environment:
 
-### Tools i use:
-<p align="right" style="clear: both;">
-  <img src="./assets/icons/tools/dwm.svg" height="40" alt="dwm logo"/>
-  <img src="./assets/icons/tools/neovim.svg" height="40" alt="neovim logo"/>
-  <img src="./assets/icons/tools/tmux.svg" height="40" alt="tmux logo"/>
-</p>
+<div style="display: flex; justify-content: space-between;">
+  <!-- Technologies -->
+  <div>
+    <p align="left">
+      <img src="./assets/icons/technologies/archlinux.svg" height="40" alt="arch logo"/>
+      <img src="./assets/icons/technologies/blackarch.png" height="60" alt="blackarch logo"/>
+      <img src="./assets/icons/technologies/raspberrypi.svg" height="40" alt="raspberrypi logo"/>
+      <img src="./assets/icons/technologies/docker.svg" height="40" alt="docker logo"/>
+    </p>
+  </div>
+</div>
+
+## Tools I use:
+
+<div style="display: flex; justify-content: space-between;">
+  <!-- Tools -->
+  <div>
+    <p align="left">
+      <img src="./assets/icons/tools/dwm.svg" height="40" alt="dwm logo"/>
+      <img src="./assets/icons/tools/neovim.svg" height="40" alt="neovim logo"/>
+      <img src="./assets/icons/tools/tmux.svg" height="40" alt="tmux logo"/>
+    </p>
+  </div>
+</div>
 
 
 ### Languages:
