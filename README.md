@@ -25,23 +25,21 @@ Here are some ideas to get you started:
 ###
 
 <p align="center">
-
   <a align="center" href="https://www.linkedin.com/in/marko-%C5%BEarkovi%C4%87-119951122/" target="_blank">
     <img src="./assets/buttonlogos/linkedinlogo.svg" height="35" alt="linkedin logo"/>
   </a>
-
+  <img width="12" />
   <a align="center" href="https://discordapp.com/users/802662481561649172" target="_blank">
     <img src="./assets/buttonlogos/discordlogo.svg" height="35" alt="discord logo"/>
   </a>
-
+  <img width="12" />
   <a align="center" href="https://app.hackthebox.com/profile/843711" target="_blank">
     <img src="./assets/buttonlogos/htblogo.svg" height="35" alt="hackthebox logo"/>
   </a>
-
+  <img width="12" />
   <a align="center" href="https://tryhackme.com/p/MarkoZarkovic" target="_blank">
     <img src="./assets/buttonlogos/tryhackmelogo.svg" height="35" alt="tryhackme logo"/>
   </a>
-
 </p>
 
 ### About me
