@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 ###
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31pnmzqtvi44wqxfplgulzc7mxsm">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31pnmzqtvi44wqxfplgulzc7mxsm&hide_title=1&hide_playing=1&hide_recents=1&hide_top_artists=1&limit=3" alt="Data Card for Spotify">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31pnmzqtvi44wqxfplgulzc7mxsm&hide_title=1&hide_playing=1&hide_recents=1&hide_top_artists=1&limit=1" alt="Data Card for Spotify">
 </a>
 
 ###
