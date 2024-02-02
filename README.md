@@ -38,32 +38,40 @@
 </p>
 
 
+<table>
+<tr>
+<th> ### Technologies in my environment: </th>
+<th> ### Tools i use: </th>
+</tr>
+<tr>
+<td>
 
-<div style="display: flex; justify-content: space-between;">
-  <!-- Technologies -->
-  <div>
-    <p align="left">
-      ## Technologies in my environment:
-      <img src="./assets/icons/technologies/archlinux.svg" height="40" alt="arch logo"/>
-      <img src="./assets/icons/technologies/blackarch.png" height="60" alt="blackarch logo"/>
-      <img src="./assets/icons/technologies/raspberrypi.svg" height="40" alt="raspberrypi logo"/>
-      <img src="./assets/icons/technologies/docker.svg" height="40" alt="docker logo"/>
-    </p>
-  </div>
-</div>
+<p>
+  <img src="./assets/icons/technologies/archlinux.svg" height="40" alt="arch logo"/>
+  <img src="./assets/icons/technologies/blackarch.png" height="60" alt="blackarch logo"/>
+  <img src="./assets/icons/technologies/raspberrypi.svg" height="40" alt="raspberrypi logo"/>
+  <img src="./assets/icons/technologies/docker.svg" height="40" alt="docker logo"/>
+</p>
+
+</td>
+<td>
+
+<p>
+  <img src="./assets/icons/tools/dwm.svg" height="40" alt="dwm logo"/>
+  <img src="./assets/icons/tools/neovim.svg" height="40" alt="neovim logo"/>
+  <img src="./assets/icons/tools/tmux.svg" height="40" alt="tmux logo"/>
+</p>
+
+</td>
+</tr>
+</table>
 
 
-<div style="display: flex; justify-content: space-between;">
-  <!-- Tools -->
-  <div>
-    <p align="right">
-      ## Tools I use:
-      <img src="./assets/icons/tools/dwm.svg" height="40" alt="dwm logo"/>
-      <img src="./assets/icons/tools/neovim.svg" height="40" alt="neovim logo"/>
-      <img src="./assets/icons/tools/tmux.svg" height="40" alt="tmux logo"/>
-    </p>
-  </div>
-</div>
+
+
+
+
+
 
 
 ### Languages:
