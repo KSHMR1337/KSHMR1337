@@ -37,41 +37,21 @@
   </a> 
 </p>
 
-
-<table width="100%">
-<tr>
-<th> ### Technologies in my environment: </th>
-<th> ### Tools i use: </th>
-</tr>
-<tr>
-<td>
-
-<p>
+### Technologies in my environment:
+<p align="left" style="clear: both;">
   <img src="./assets/icons/technologies/archlinux.svg" height="40" alt="arch logo"/>
   <img src="./assets/icons/technologies/blackarch.png" height="60" alt="blackarch logo"/>
   <img src="./assets/icons/technologies/raspberrypi.svg" height="40" alt="raspberrypi logo"/>
   <img src="./assets/icons/technologies/docker.svg" height="40" alt="docker logo"/>
 </p>
 
-</td>
-<td>
 
-<p>
+### Tools i use:
+<p align="left" style="clear: both;">
   <img src="./assets/icons/tools/dwm.svg" height="40" alt="dwm logo"/>
   <img src="./assets/icons/tools/neovim.svg" height="40" alt="neovim logo"/>
   <img src="./assets/icons/tools/tmux.svg" height="40" alt="tmux logo"/>
 </p>
-
-</td>
-</tr>
-</table>
-
-
-
-
-
-
-
 
 
 ### Languages:
