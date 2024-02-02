@@ -26,18 +26,26 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marko-%C5%BEarkovi%C4%87-119951122/" target="_blank">
-    <img src="./pictures/linkedinlogo.svg" height="35" alt="linkedin logo"  />
+    <img src="./assets/buttonlogos/linkedinlogo.svg" height="35" alt="linkedin logo"  />
   </a>
   <a href="_kshmr_" target="_blank">
-    <img src="./pictures/discordlogo.svg" height="35" alt="discord logo"  />
+    <img src="./assets/buttonlogos/discordlogo.svg" height="35" alt="discord logo"  />
   </a>
   <a href="https://app.hackthebox.com/profile/843711" target="_blank">
-    <img src="./pictures/htblogo.svg" height="35" alt="hackthebox logo"  />
+    <img src="./assets/buttonlogos/htblogo.svg" height="35" alt="hackthebox logo"  />
   </a>
   <a href="https://tryhackme.com/p/MarkoZarkovic" target="_blank">
-    <img src="./pictures/tryhackmelogo.svg" height="35" alt="tryhackme logo"  />
+    <img src="./assets/buttonlogos/tryhackmelogo.svg" height="35" alt="tryhackme logo"  />
   </a>
 <p/>
+
+##<h2>About me</h2>
+- Very passionate Cybersecurity Engineer and Penetration Tester :computer:
+- Linux enthusiast and use Arch and Blackarch as my OSes :alien:
+- Currently doing my Masters in Cybersecurity on static malware analysis :space_invader:
+- Love playing CTFs in my free time :mount_fuji: 
+
+
 
 ###
 
@@ -50,7 +58,34 @@ Here are some ideas to get you started:
   </a> 
 <p/>
 
-###
+###Technologies in my environment:
+<p align="left" style="clear: both;">
+<img src="./assets/icons/technologies/archlinux.svg" height="40" alt="arch logo"/>
+<img src="./assets/icons/technologies/blackarch.png" height="40" alt="blackarch logo"/>
+<img src="./assets/icons/technologies/raspberrypi.svg" height="40" alt="raspberrypi logo"/>
+<img src="./assets/icons/technologies/docker.svg" height="40" alt="docker logo"/>
+</p>
+
+
+###Tools i use:
+<p align="left" style="clear: both;">
+<img src="./assets/icons/tools/dwm.svg" height="40" alt="dwm logo"/>
+<img src="./assets/icons/tools/neovim.svg" height="40" alt="neovim logo"/>
+<img src="./assets/icons/tools/tmux.svg" height="40" alt="tmux logo"/>
+</p>
+
+
+###Languages:
+<p align="left" style="clear: both;">
+<img src="./assets/icons/languages/c.svg" height="40" alt="c icon"/>
+<img src="./assets/icons/languages/cpp.svg" height="40" alt="cpp icon"/>
+<img src="./assets/icons/languages/cs.svg" height="40" alt="cs icon"/>
+<img src="./assets/icons/languages/python.svg" height="40" alt="python icon"/>
+<img src="./assets/icons/languages/shell.svg" height="40" alt="shell icon"/>
+<img src="./assets/icons/languages/ps.svg" height="40" alt="ps icon"/>
+<img src="./assets/icons/languages/java.svg" height="40" alt="java icon"/>
+<img src="./assets/icons/languages/lua.svg" height="40" alt="lua icon"/>
+</p>
 
 <p align="left" style="clear: both;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
