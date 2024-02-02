@@ -25,19 +25,19 @@ Here are some ideas to get you started:
 ###
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marko-%C5%BEarkovi%C4%87-119951122/" >
+  <a href="https://www.linkedin.com/in/marko-%C5%BEarkovi%C4%87-119951122/" target="_blank">
     <img src="./assets/buttonlogos/linkedinlogo.svg" height="35" alt="linkedin logo"  />
   </a>
-  <a href="_kshmr_" >
+  <a href="_kshmr_" target="_blank">
     <img src="./assets/buttonlogos/discordlogo.svg" height="35" alt="discord logo"  />
   </a>
-  <a href="https://app.hackthebox.com/profile/843711" >
+  <a href="https://app.hackthebox.com/profile/843711" target="_blank">
     <img src="./assets/buttonlogos/htblogo.svg" height="35" alt="hackthebox logo"  />
   </a>
-  <a href="https://tryhackme.com/p/MarkoZarkovic" >
+  <a href="https://tryhackme.com/p/MarkoZarkovic" target="_blank">
     <img src="./assets/buttonlogos/tryhackmelogo.svg" height="35" alt="tryhackme logo"  />
   </a>
-<p/>
+</p>
 
 ### About me
 - Very passionate Cybersecurity Engineer and Penetration Tester :computer:
