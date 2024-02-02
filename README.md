@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 <p>
   <a href="https://git.io/streak-stats">
-    <img align="center" height=200 src="https://streak-stats.demolab.com?user=KSHMR1337&theme=synthwave&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=440" alt="GitHub Streak" />
+    <img align="center" height=200 src="https://streak-stats.demolab.com?user=KSHMR1337&theme=synthwave&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=430" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="right" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSHMR1337&title_color=F729B1FF&text_color=ffffff&icon_color=61dafb&bg_color=2b213a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
