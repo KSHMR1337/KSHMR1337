@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   </a>
 <p/>
 
-##<h2>About me</h2>
+## <h2>About me</h2>
 - Very passionate Cybersecurity Engineer and Penetration Tester :computer:
 - Linux enthusiast and use Arch and Blackarch as my OSes :alien:
 - Currently doing my Masters in Cybersecurity on static malware analysis :space_invader:
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
   </a> 
 <p/>
 
-###Technologies in my environment:
+### Technologies in my environment:
 <p align="left" style="clear: both;">
 <img src="./assets/icons/technologies/archlinux.svg" height="40" alt="arch logo"/>
 <img src="./assets/icons/technologies/blackarch.png" height="40" alt="blackarch logo"/>
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 </p>
 
 
-###Tools i use:
+### Tools i use:
 <p align="left" style="clear: both;">
 <img src="./assets/icons/tools/dwm.svg" height="40" alt="dwm logo"/>
 <img src="./assets/icons/tools/neovim.svg" height="40" alt="neovim logo"/>
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 </p>
 
 
-###Languages:
+### Languages:
 <p align="left" style="clear: both;">
 <img src="./assets/icons/languages/c.svg" height="40" alt="c icon"/>
 <img src="./assets/icons/languages/cpp.svg" height="40" alt="cpp icon"/>
