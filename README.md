@@ -47,7 +47,7 @@
 
 
 ### Tools i use:
-<p align="left" style="clear: both;">
+<p align="right" style="clear: both;">
   <img src="./assets/icons/tools/dwm.svg" height="40" alt="dwm logo"/>
   <img src="./assets/icons/tools/neovim.svg" height="40" alt="neovim logo"/>
   <img src="./assets/icons/tools/tmux.svg" height="40" alt="tmux logo"/>
