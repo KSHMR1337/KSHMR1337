@@ -38,7 +38,7 @@
 </p>
 
 
-<table>
+<table style="width: 100%;">
 <tr>
 <th> ### Technologies in my environment: </th>
 <th> ### Tools i use: </th>
