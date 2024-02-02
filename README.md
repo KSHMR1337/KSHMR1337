@@ -25,16 +25,16 @@ Here are some ideas to get you started:
 ###
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marko-%C5%BEarkovi%C4%87-119951122/" target="_blank">
+  <a href="https://www.linkedin.com/in/marko-%C5%BEarkovi%C4%87-119951122/" >
     <img src="./assets/buttonlogos/linkedinlogo.svg" height="35" alt="linkedin logo"  />
   </a>
-  <a href="_kshmr_" target="_blank">
+  <a href="_kshmr_" >
     <img src="./assets/buttonlogos/discordlogo.svg" height="35" alt="discord logo"  />
   </a>
-  <a href="https://app.hackthebox.com/profile/843711" target="_blank">
+  <a href="https://app.hackthebox.com/profile/843711" >
     <img src="./assets/buttonlogos/htblogo.svg" height="35" alt="hackthebox logo"  />
   </a>
-  <a href="https://tryhackme.com/p/MarkoZarkovic" target="_blank">
+  <a href="https://tryhackme.com/p/MarkoZarkovic" >
     <img src="./assets/buttonlogos/tryhackmelogo.svg" height="35" alt="tryhackme logo"  />
   </a>
 <p/>
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 ### Technologies in my environment:
 <p align="left" style="clear: both;">
 <img src="./assets/icons/technologies/archlinux.svg" height="40" alt="arch logo"/>
-<img src="./assets/icons/technologies/blackarch.png" height="40" alt="blackarch logo"/>
+<img src="./assets/icons/technologies/blackarch.png" height="60" alt="blackarch logo"/>
 <img src="./assets/icons/technologies/raspberrypi.svg" height="40" alt="raspberrypi logo"/>
 <img src="./assets/icons/technologies/docker.svg" height="40" alt="docker logo"/>
 </p>
