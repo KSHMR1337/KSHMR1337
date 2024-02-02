@@ -24,17 +24,17 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/marko-%C5%BEarkovi%C4%87-119951122/" target="_blank">
+<p >
+  <a align="center" href="https://www.linkedin.com/in/marko-%C5%BEarkovi%C4%87-119951122/" target="_blank">
     <img src="./assets/buttonlogos/linkedinlogo.svg" height="35" alt="linkedin logo"  />
   </a>
-  <a href="_kshmr_" target="_blank">
+  <a align="center" href="https://discordapp.com/802662481561649172" target="_blank">
     <img src="./assets/buttonlogos/discordlogo.svg" height="35" alt="discord logo"  />
   </a>
-  <a href="https://app.hackthebox.com/profile/843711" target="_blank">
+  <a align="center" href="https://app.hackthebox.com/profile/843711" target="_blank">
     <img src="./assets/buttonlogos/htblogo.svg" height="35" alt="hackthebox logo"  />
   </a>
-  <a href="https://tryhackme.com/p/MarkoZarkovic" target="_blank">
+  <a align="center" href="https://tryhackme.com/p/MarkoZarkovic" target="_blank">
     <img src="./assets/buttonlogos/tryhackmelogo.svg" height="35" alt="tryhackme logo"  />
   </a>
 </p>
@@ -56,35 +56,35 @@ Here are some ideas to get you started:
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="right" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSHMR1337&title_color=F729B1FF&text_color=ffffff&icon_color=61dafb&bg_color=2b213a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
   </a> 
-<p/>
+</p>
 
 ### Technologies in my environment:
 <p align="left" style="clear: both;">
-<img src="./assets/icons/technologies/archlinux.svg" height="40" alt="arch logo"/>
-<img src="./assets/icons/technologies/blackarch.png" height="60" alt="blackarch logo"/>
-<img src="./assets/icons/technologies/raspberrypi.svg" height="40" alt="raspberrypi logo"/>
-<img src="./assets/icons/technologies/docker.svg" height="40" alt="docker logo"/>
+  <img src="./assets/icons/technologies/archlinux.svg" height="40" alt="arch logo"/>
+  <img src="./assets/icons/technologies/blackarch.png" height="60" alt="blackarch logo"/>
+  <img src="./assets/icons/technologies/raspberrypi.svg" height="40" alt="raspberrypi logo"/>
+  <img src="./assets/icons/technologies/docker.svg" height="40" alt="docker logo"/>
 </p>
 
 
 ### Tools i use:
 <p align="left" style="clear: both;">
-<img src="./assets/icons/tools/dwm.svg" height="40" alt="dwm logo"/>
-<img src="./assets/icons/tools/neovim.svg" height="40" alt="neovim logo"/>
-<img src="./assets/icons/tools/tmux.svg" height="40" alt="tmux logo"/>
+  <img src="./assets/icons/tools/dwm.svg" height="40" alt="dwm logo"/>
+  <img src="./assets/icons/tools/neovim.svg" height="40" alt="neovim logo"/>
+  <img src="./assets/icons/tools/tmux.svg" height="40" alt="tmux logo"/>
 </p>
 
 
 ### Languages:
 <p align="left" style="clear: both;">
-<img src="./assets/icons/languages/c.svg" height="40" alt="c icon"/>
-<img src="./assets/icons/languages/cpp.svg" height="40" alt="cpp icon"/>
-<img src="./assets/icons/languages/cs.svg" height="40" alt="cs icon"/>
-<img src="./assets/icons/languages/python.svg" height="40" alt="python icon"/>
-<img src="./assets/icons/languages/shell.svg" height="40" alt="shell icon"/>
-<img src="./assets/icons/languages/ps.svg" height="40" alt="ps icon"/>
-<img src="./assets/icons/languages/java.svg" height="40" alt="java icon"/>
-<img src="./assets/icons/languages/lua.svg" height="40" alt="lua icon"/>
+  <img src="./assets/icons/languages/c.svg" height="40" alt="c icon"/>
+  <img src="./assets/icons/languages/cpp.svg" height="40" alt="cpp icon"/>
+  <img src="./assets/icons/languages/cs.svg" height="40" alt="cs icon"/>
+  <img src="./assets/icons/languages/python.svg" height="40" alt="python icon"/>
+  <img src="./assets/icons/languages/shell.svg" height="40" alt="shell icon"/>
+  <img src="./assets/icons/languages/ps.svg" height="40" alt="ps icon"/>
+  <img src="./assets/icons/languages/java.svg" height="40" alt="java icon"/>
+  <img src="./assets/icons/languages/lua.svg" height="40" alt="lua icon"/>
 </p>
 
 ###
