@@ -39,9 +39,11 @@
 
 ### Technologies in my environment:
 <p align="left" style="clear: both;">
+  <img src="./assets/icons/technologies/artixlinux.svg" height="40" alt="arch logo"/>
   <img src="./assets/icons/technologies/archlinux.svg" height="40" alt="arch logo"/>
   <img src="./assets/icons/technologies/blackarch.png" height="60" alt="blackarch logo"/>
   <img src="./assets/icons/technologies/raspberrypi.svg" height="40" alt="raspberrypi logo"/>
+  <img src="./assets/icons/technologies/qemu.svg" height="40" alt="raspberrypi logo"/>
   <img src="./assets/icons/technologies/docker.svg" height="40" alt="docker logo"/>
 </p>
 
