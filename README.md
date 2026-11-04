@@ -29,15 +29,6 @@
 - Arch and BlackArch daily driver :alien:
 - Love playing CTFs in my free time :mount_fuji:
 
-<p align="center">
-  <a href="https://app.hackthebox.com/profile/843711">
-    <img align="center" height=200 src="https://www.hackthebox.com/badge/image/843711" alt="Hack The Box Profile" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSHMR1337&title_color=F729B1FF&text_color=ffffff&icon_color=61dafb&bg_color=2b213a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-  </a>
-</p>
-
 ### Technologies in my environment:
 
 <p align="left" style="clear: both;">
@@ -68,4 +59,13 @@
   <img src="./assets/icons/languages/ps.svg" height="40" alt="ps icon"/>
   <img src="./assets/icons/languages/java.svg" height="40" alt="java icon"/>
   <img src="./assets/icons/languages/lua.svg" height="40" alt="lua icon"/>
+</p>
+
+<p align="center">
+  <a href="https://app.hackthebox.com/profile/843711">
+    <img align="center" height=200 src="https://www.hackthebox.com/badge/image/843711" alt="Hack The Box Profile" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSHMR1337&title_color=F729B1FF&text_color=ffffff&icon_color=61dafb&bg_color=2b213a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5&cache_seconds=86400" />
+  </a>
 </p>
