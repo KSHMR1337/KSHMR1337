@@ -66,9 +66,9 @@
     <img align="center" height=200 src="https://www.hackthebox.com/badge/image/843711" alt="Hack The Box Profile" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img align="center" height=200 src="./profile-summary-card-output/radical/2-most-commit-language-card.svg" alt="Most used languages" />
+    <img align="center" height=200 src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most used languages by commits" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img align="center" height=200 src="./profile-summary-card-output/radical/4-repos-per-language-card.svg" alt="Repos per language" />
+    <img align="center" height=200 src="./profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per language" />
   </a>
 </p>
