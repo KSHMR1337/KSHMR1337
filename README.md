@@ -60,15 +60,3 @@
   <img src="./assets/icons/languages/java.svg" height="40" alt="java icon"/>
   <img src="./assets/icons/languages/lua.svg" height="40" alt="lua icon"/>
 </p>
-
-<p align="center">
-  <a href="https://app.hackthebox.com/profile/843711">
-    <img align="center" height=200 src="https://www.hackthebox.com/badge/image/843711" alt="Hack The Box Profile" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img align="center" height=200 src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most used languages by commits" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img align="center" height=200 src="./profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per language" />
-  </a>
-</p>
