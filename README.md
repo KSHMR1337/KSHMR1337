@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F729B1&center=true&random=false&width=435&lines=Hi+there;I'm+Marko" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=F729B1&center=true&random=false&width=435&lines=Hi+there;I'm+Marko" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,21 +23,23 @@
 </p>
 
 ### About me
-- Very passionate Cybersecurity Engineer and Penetration Tester :computer:
-- Linux enthusiast and use Arch and Blackarch as my OSes :alien:
-- Currently doing my Masters in Cybersecurity on static malware analysis :space_invader:
-- Love playing CTFs in my free time :mount_fuji: 
 
-<p>
-  <a href="https://git.io/streak-stats">
-    <img align="center" height=200 src="https://streak-stats.demolab.com?user=KSHMR1337&theme=synthwave&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=430" alt="GitHub Streak" />
+- I spend my days on red team operations and inside malware binaries :computer:
+- OSCP+, CPTS, Hack The Box **Omniscient** :skull:
+- Arch and BlackArch daily driver :alien:
+- Love playing CTFs in my free time :mount_fuji:
+
+<p align="center">
+  <a href="https://app.hackthebox.com/profile/843711">
+    <img align="center" height=200 src="https://www.hackthebox.com/badge/image/843711" alt="Hack The Box Profile" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSHMR1337&title_color=F729B1FF&text_color=ffffff&icon_color=61dafb&bg_color=2b213a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-  </a> 
+    <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSHMR1337&title_color=F729B1FF&text_color=ffffff&icon_color=61dafb&bg_color=2b213a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+  </a>
 </p>
 
 ### Technologies in my environment:
+
 <p align="left" style="clear: both;">
   <img src="./assets/icons/technologies/artixlinux.svg" height="40" alt="arch logo"/>
   <img src="./assets/icons/technologies/archlinux.svg" height="40" alt="arch logo"/>
@@ -47,16 +49,16 @@
   <img src="./assets/icons/technologies/docker.svg" height="40" alt="docker logo"/>
 </p>
 
-
 ### Tools i use:
+
 <p align="left" style="clear: both;">
   <img src="./assets/icons/tools/dwm.svg" height="40" alt="dwm logo"/>
   <img src="./assets/icons/tools/neovim.svg" height="40" alt="neovim logo"/>
   <img src="./assets/icons/tools/tmux.svg" height="40" alt="tmux logo"/>
 </p>
 
-
 ### Languages:
+
 <p align="left" style="clear: both;">
   <img src="./assets/icons/languages/c.svg" height="40" alt="c icon"/>
   <img src="./assets/icons/languages/cpp.svg" height="40" alt="cpp icon"/>
@@ -67,5 +69,3 @@
   <img src="./assets/icons/languages/java.svg" height="40" alt="java icon"/>
   <img src="./assets/icons/languages/lua.svg" height="40" alt="lua icon"/>
 </p>
-
-
