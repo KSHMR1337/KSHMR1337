@@ -1,0 +1,17 @@
+{
+  "title": "#F729B1",
+  "text": "#FFFFFF",
+  "background": "#2B213A",
+  "stroke": "#61DAFB",
+  "chartBorderColor": "#61DAFB",
+  "chart": [
+    "#F729B1",
+    "#61DAFB",
+    "#B967FF",
+    "#FF71CE",
+    "#05FFA1",
+    "#FFFB96",
+    "#01CDFE",
+    "#FF9A8B"
+  ]
+}

@@ -65,7 +65,10 @@
   <a href="https://app.hackthebox.com/profile/843711">
     <img align="center" height=200 src="https://www.hackthebox.com/badge/image/843711" alt="Hack The Box Profile" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSHMR1337&title_color=F729B1FF&text_color=ffffff&icon_color=61dafb&bg_color=2b213a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5&cache_seconds=86400" />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img align="center" height=200 src="./profile-summary-card-output/custom/2-most-commit-language-card.svg" alt="Most used languages" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img align="center" height=200 src="./profile-summary-card-output/custom/4-repos-per-language-card.svg" alt="Repos per language" />
   </a>
 </p>
